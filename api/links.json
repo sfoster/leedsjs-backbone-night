@@ -1,0 +1,14 @@
+{
+    "description": "Some canned links data", 
+    "links": [
+        {
+            "title": "Giant Pandas", 
+            "url": "http://en.wikipedia.org/wiki/Giant_panda"
+        }, 
+        {
+            "title": "Some bugs", 
+            "url": "http://animals.nationalgeographic.com/animals/bugs/"
+        }
+    ], 
+    "name": "links.json"
+}
