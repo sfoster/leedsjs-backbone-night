@@ -44,4 +44,3 @@ Dependencies
 ------------
 
 * Underscore: utils, functional helpers
-
